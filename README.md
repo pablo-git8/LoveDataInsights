@@ -2,7 +2,7 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
-# LoveDataInsights
+# Love Data Insights
 
 A comprehensive data analysis project focusing on a dataset from a dating profile application. This repository includes detailed exploration, preprocessing, and analysis of various user attributes to uncover trends, behaviors, and interesting insights.
 
@@ -60,7 +60,7 @@ The project concludes with recommendations for future work, highlighting areas t
 
 ## How to Run the Project
 
-Instructions on how to set up the environment, install dependencies, and run the Jupyter notebooks for this project.
+_Instructions on how to set up the environment, install dependencies, and run the Jupyter notebooks for this project._
 
 ## License
 
